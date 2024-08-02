@@ -12,6 +12,6 @@
   "author": "Tien Duy",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.16.3"
+    "json-server": "^0.17.4"
   }
 }
